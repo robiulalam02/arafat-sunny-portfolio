@@ -68,7 +68,8 @@ export default function Navbar() {
           {/* Desktop Contact Button */}
           <div className="hidden md:block">
             <a
-              href="mailto:sunny@example.com"
+              href="https://wa.me/01615887503"
+              target="_blank"
               className="flex items-center gap-2 px-5 py-2.5 rounded-full bg-purple-600 text-white text-xs md:text-sm font-semibold hover:bg-purple-700 dark:hover:bg-purple-500 transition-all duration-300 shadow-md shadow-purple-600/20 dark:shadow-[0_0_15px_rgba(147,51,234,0.3)] hover:shadow-lg dark:hover:shadow-[0_0_25px_rgba(147,51,234,0.5)]"
             >
               <Mail className="w-4 h-4" />
@@ -124,7 +125,8 @@ export default function Navbar() {
               {/* Mobile Contact Button */}
               <div className="mt-8">
                 <a
-                  href="mailto:sunny@example.com"
+                  href="https://wa.me/01615887503"
+                  target="_blank"
                   onClick={handleLinkClick}
                   className="flex w-full items-center justify-center gap-2 px-5 py-3.5 rounded-full bg-purple-600 text-white font-semibold hover:bg-purple-700 dark:hover:bg-purple-500 transition-all duration-300 shadow-md shadow-purple-600/20 dark:shadow-[0_0_15px_rgba(147,51,234,0.3)]"
                 >
