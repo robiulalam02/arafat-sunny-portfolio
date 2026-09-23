@@ -112,7 +112,7 @@ export default function Home() {
 
             <div className="flex flex-col sm:flex-row items-center gap-4 justify-center md:justify-start w-full">
               <a
-                href="https://drive.google.com/file/d/1P9KdUQWzU1bkqYkY39w02fa2ADxASST6/viewhttps://drive.google.com/file/d/1P9KdUQWzU1bkqYkY39w02fa2ADxASST6/view"
+                href="https://drive.google.com/file/d/1P9KdUQWzU1bkqYkY39w02fa2ADxASST6/view"
                 target="_blank"
                 className="w-full sm:w-auto flex items-center justify-center gap-2 px-8 py-3.5 bg-purple-600 text-white font-semibold rounded-full hover:bg-purple-700 dark:hover:bg-purple-500 transition-all shadow-lg shadow-purple-600/20 dark:shadow-[0_0_20px_rgba(147,51,234,0.4)]"
               >
